@@ -11,6 +11,7 @@
 ## Using the APIKEY
 * create a .env file or use the above sampel .env file
 * Load all the variables and the api key into it
+* To **FIND ALL THE PUBLIC API** = "https://github.com/public-apis/public-apis"
 * Go to the website to sign and create a account to the api
   "https://openweathermap.org/api" - weather data
   "https://spoonacular.com/food-api" - to the wine data
