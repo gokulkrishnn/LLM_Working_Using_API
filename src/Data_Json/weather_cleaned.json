@@ -1,0 +1,51 @@
+[
+    {
+        "city": "London",
+        "temp_c": 16.54,
+        "feels_like_c": 15.71,
+        "temp_f": 61.77,
+        "feels_like_f": 60.28
+    },
+    {
+        "city": "New York",
+        "temp_c": 17.46,
+        "feels_like_c": 17.19,
+        "temp_f": 63.43,
+        "feels_like_f": 62.94
+    },
+    {
+        "city": "Tokyo",
+        "temp_c": 13.36,
+        "feels_like_c": 11.87,
+        "temp_f": 56.05,
+        "feels_like_f": 53.37
+    },
+    {
+        "city": "Paris",
+        "temp_c": 20.09,
+        "feels_like_c": 19.51,
+        "temp_f": 68.16,
+        "feels_like_f": 67.12
+    },
+    {
+        "city": "Berlin",
+        "temp_c": 19.58,
+        "feels_like_c": 18.87,
+        "temp_f": 67.24,
+        "feels_like_f": 65.97
+    },
+    {
+        "city": "Mumbai",
+        "temp_c": 29.1,
+        "feels_like_c": 34.15,
+        "temp_f": 84.38,
+        "feels_like_f": 93.47
+    },
+    {
+        "city": "Sydney",
+        "temp_c": 20.97,
+        "feels_like_c": 21.05,
+        "temp_f": 69.75,
+        "feels_like_f": 69.89
+    }
+]

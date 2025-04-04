@@ -1,0 +1,35 @@
+[
+    {
+        "merlot": "Merlot is a dry red wine which is smooth and medium bodied."
+    },
+    {
+        "chardonnay": "Chardonnay is a dry white wine which is bold and full bodied."
+    },
+    {
+        "malbec": "Malbec is a dry red wine which is bold and full bodied."
+    },
+    {
+        "riesling": "Riesling is a white wine which is crisp and light bodied."
+    },
+    {
+        "cabernet sauvignon": "Cabernet Sauvignon is a dry red wine which is bold and full bodied."
+    },
+    {
+        "pinot noir": "Pinot Noir is a dry red wine which is light and fruity."
+    },
+    {
+        "sauvignon blanc": "Sauvignon Blanc is a dry white wine which is smooth and medium bodied."
+    },
+    {
+        "syrah": "Shiraz is a dry red wine which is bold and full bodied."
+    },
+    {
+        "zinfandel": "Zinfandel is a dry red wine which is bold and full bodied."
+    },
+    {
+        "tempranillo": "Tempranillo is a dry red wine which is smooth and medium bodied."
+    },
+    {
+        "grenache": "Grenache is a dry red wine which is smooth and medium bodied."
+    }
+]
