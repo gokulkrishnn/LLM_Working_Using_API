@@ -1,0 +1,316 @@
+[
+    {
+        "coord": {
+            "lon": -0.1257,
+            "lat": 51.5085
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 14.61,
+            "feels_like": 13.12,
+            "temp_min": 14.61,
+            "temp_max": 14.61,
+            "pressure": 1026,
+            "humidity": 38,
+            "sea_level": 1026,
+            "grnd_level": 1021
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.81,
+            "deg": 82,
+            "gust": 3.99
+        },
+        "clouds": {
+            "all": 6
+        },
+        "dt": 1744036442,
+        "sys": {
+            "country": "GB",
+            "sunrise": 1744003317,
+            "sunset": 1744051371
+        },
+        "timezone": 3600,
+        "id": 2643743,
+        "name": "London",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": -74.006,
+            "lat": 40.7143
+        },
+        "weather": [
+            {
+                "id": 501,
+                "main": "Rain",
+                "description": "moderate rain",
+                "icon": "10d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 5.38,
+            "feels_like": 3.03,
+            "temp_min": 5.38,
+            "temp_max": 5.38,
+            "pressure": 1010,
+            "humidity": 85,
+            "sea_level": 1010,
+            "grnd_level": 1008
+        },
+        "visibility": 7772,
+        "wind": {
+            "speed": 2.91,
+            "deg": 61,
+            "gust": 4
+        },
+        "rain": {
+            "1h": 1.15
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1744036705,
+        "sys": {
+            "country": "US",
+            "sunrise": 1744021755,
+            "sunset": 1744068389
+        },
+        "timezone": -14400,
+        "id": 5128581,
+        "name": "New York",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 139.6917,
+            "lat": 35.6895
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 12.6,
+            "feels_like": 11.87,
+            "temp_min": 12.6,
+            "temp_max": 12.6,
+            "pressure": 1016,
+            "humidity": 75,
+            "sea_level": 1016,
+            "grnd_level": 1015
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.7,
+            "deg": 186,
+            "gust": 3.25
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1744036617,
+        "sys": {
+            "country": "JP",
+            "sunrise": 1743970776,
+            "sunset": 1744016813
+        },
+        "timezone": 32400,
+        "id": 1850144,
+        "name": "Tokyo",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 2.3488,
+            "lat": 48.8534
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 16.16,
+            "feels_like": 14.43,
+            "temp_min": 16.16,
+            "temp_max": 16.16,
+            "pressure": 1022,
+            "humidity": 23,
+            "sea_level": 1022,
+            "grnd_level": 1012
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 3.14,
+            "deg": 57,
+            "gust": 3.36
+        },
+        "clouds": {
+            "all": 8
+        },
+        "dt": 1744036717,
+        "sys": {
+            "country": "FR",
+            "sunrise": 1744002933,
+            "sunset": 1744050568
+        },
+        "timezone": 7200,
+        "id": 2988507,
+        "name": "Paris",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 13.4105,
+            "lat": 52.5244
+        },
+        "weather": [
+            {
+                "id": 804,
+                "main": "Clouds",
+                "description": "overcast clouds",
+                "icon": "04d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 12.88,
+            "feels_like": 11.27,
+            "temp_min": 12.88,
+            "temp_max": 12.88,
+            "pressure": 1023,
+            "humidity": 40,
+            "sea_level": 1023,
+            "grnd_level": 1018
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.82,
+            "deg": 329,
+            "gust": 6.31
+        },
+        "clouds": {
+            "all": 100
+        },
+        "dt": 1744036490,
+        "sys": {
+            "country": "DE",
+            "sunrise": 1743999987,
+            "sunset": 1744048205
+        },
+        "timezone": 7200,
+        "id": 2950159,
+        "name": "Berlin",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 72.8479,
+            "lat": 19.0144
+        },
+        "weather": [
+            {
+                "id": 800,
+                "main": "Clear",
+                "description": "clear sky",
+                "icon": "01n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 29.99,
+            "feels_like": 31.87,
+            "temp_min": 29.99,
+            "temp_max": 29.99,
+            "pressure": 1007,
+            "humidity": 55,
+            "sea_level": 1007,
+            "grnd_level": 1007
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 7.9,
+            "deg": 330,
+            "gust": 10.53
+        },
+        "clouds": {
+            "all": 0
+        },
+        "dt": 1744036047,
+        "sys": {
+            "country": "IN",
+            "sunrise": 1743987454,
+            "sunset": 1744032213
+        },
+        "timezone": 19800,
+        "id": 1275339,
+        "name": "Mumbai",
+        "cod": 200
+    },
+    {
+        "coord": {
+            "lon": 151.2073,
+            "lat": -33.8679
+        },
+        "weather": [
+            {
+                "id": 500,
+                "main": "Rain",
+                "description": "light rain",
+                "icon": "10n"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 17.31,
+            "feels_like": 16.92,
+            "temp_min": 17.31,
+            "temp_max": 17.31,
+            "pressure": 1021,
+            "humidity": 70,
+            "sea_level": 1021,
+            "grnd_level": 1016
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 2.66,
+            "deg": 157,
+            "gust": 3.26
+        },
+        "rain": {
+            "1h": 0.42
+        },
+        "clouds": {
+            "all": 80
+        },
+        "dt": 1744036309,
+        "sys": {
+            "country": "AU",
+            "sunrise": 1744056725,
+            "sunset": 1744098103
+        },
+        "timezone": 36000,
+        "id": 2147714,
+        "name": "Sydney",
+        "cod": 200
+    }
+]
