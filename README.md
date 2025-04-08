@@ -33,3 +33,8 @@ OPENWEATHER_API_KEY=your_openweather_api_key
     - `GET /results`: Returns all LLM-generated recommendations, optionally filtered by city.
     - `GET /analysis`: Returns only the latest summary (or latest per city).
    
+## RUN PYTEST
+ - Catch Bugs Early - You can find issues before they make it to production (like broken routes, DB errors, or incorrect logic).
+ - Ensure Code Quality - Tests enforce a contract—if someone changes the logic in main.py, your tests can immediately catch regressions.
+ - Enable Confident Refactoring - Want to change something in your code? Run the tests afterward to confirm nothing broke.
+ - Automate Validation - Manually checking each endpoint or function is tedious. With pytest, you can validate all endpoints with a single command:
